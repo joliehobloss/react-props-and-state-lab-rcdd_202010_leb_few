@@ -22,4 +22,9 @@ class Filters extends React.Component {
   }
 }
 
+<<<<<<< HEAD
 export default Filters
+=======
+export default Filters
+© 2021 GitHub, Inc.
+>>>>>>> a6731ac205d0f3033d3167181f6277cdaf13ef93
